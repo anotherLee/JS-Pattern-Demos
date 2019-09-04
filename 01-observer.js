@@ -34,7 +34,7 @@ class Subject {
   }
 }
 
-class Observer {
+class 01 {
   constructor(name, subject) {
     this.name = name
     this.subject = subject
