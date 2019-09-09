@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name:": "《React学习面试题》",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name:": "《MySQL必知必会》",
+    "price": 22
+  },
+  {
+    "id": 3,
+    "name:": "《Effective Java》",
+    "price": 125
+  },
+  {
+    "id": 4,
+    "name:": "《Linux/Unix设计哲学》",
+    "price": 12
+  }
+]
