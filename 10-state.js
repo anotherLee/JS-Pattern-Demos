@@ -32,7 +32,6 @@ class Context {
 
   setState(state) {
     this.state = state
-    // 在这里就可以做各种各样的事情了
   }
 }
 

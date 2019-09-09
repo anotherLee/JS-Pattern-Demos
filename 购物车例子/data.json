@@ -1,22 +1,26 @@
 [
   {
     "id": 1,
-    "name:": "《React学习面试题》",
-    "price": 120
+    "name": "《React学习面试题》",
+    "price": 120,
+    "discount": 0.8
   },
   {
     "id": 2,
-    "name:": "《MySQL必知必会》",
-    "price": 22
+    "name": "《MySQL必知必会》",
+    "price": 22,
+    "discount": 0.9
   },
   {
     "id": 3,
-    "name:": "《Effective Java》",
-    "price": 125
+    "name": "《Effective Java》",
+    "price": 125,
+    "discount": 0
   },
   {
     "id": 4,
-    "name:": "《Linux/Unix设计哲学》",
-    "price": 12
+    "name": "《Linux/Unix设计哲学》",
+    "price": 12,
+    "discount": 0.75
   }
 ]
